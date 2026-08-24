@@ -1,0 +1,8 @@
+{
+  "name": "advisor-markets",
+  "version": "1.0.0",
+  "description": "Daily market intelligence workflows: morning market brief and market risk monitoring.",
+  "author": { "name": "Lexfi", "url": "https://lexfi.ai" },
+  "license": "MIT",
+  "keywords": ["financial-advisor", "wealth-management", "lexfi", "mcp", "markets"]
+}

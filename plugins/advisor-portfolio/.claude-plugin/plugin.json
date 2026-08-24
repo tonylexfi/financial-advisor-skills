@@ -1,0 +1,8 @@
+{
+  "name": "advisor-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio intelligence workflows: holdings news triage and portfolio risk review.",
+  "author": { "name": "Lexfi", "url": "https://lexfi.ai" },
+  "license": "MIT",
+  "keywords": ["financial-advisor", "wealth-management", "lexfi", "mcp", "portfolio"]
+}

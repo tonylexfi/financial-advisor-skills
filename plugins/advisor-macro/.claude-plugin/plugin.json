@@ -1,0 +1,8 @@
+{
+  "name": "advisor-macro",
+  "version": "1.0.0",
+  "description": "Macro intelligence workflows: central bank monitoring and macro regime analysis.",
+  "author": { "name": "Lexfi", "url": "https://lexfi.ai" },
+  "license": "MIT",
+  "keywords": ["financial-advisor", "wealth-management", "lexfi", "mcp", "macro"]
+}

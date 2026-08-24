@@ -1,0 +1,55 @@
+{
+  "name": "financial-advisor-skills",
+  "owner": {
+    "name": "Lexfi",
+    "url": "https://lexfi.ai"
+  },
+  "metadata": {
+    "description": "Claude Skills for financial advisors and wealth managers, powered by Lexfi MCP",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "advisor-core",
+      "source": "./plugins/advisor-core",
+      "description": "Required substrate: Lexfi MCP routing playbook, evidence discipline, advisor voice. Install first — every other plugin depends on it.",
+      "category": "core"
+    },
+    {
+      "name": "advisor-client",
+      "source": "./plugins/advisor-client",
+      "description": "Client-facing workflows: meeting prep, market updates, portfolio change explanations, market-move explainers.",
+      "category": "client"
+    },
+    {
+      "name": "advisor-markets",
+      "source": "./plugins/advisor-markets",
+      "description": "Daily market intelligence: morning brief, market risk monitor.",
+      "category": "markets"
+    },
+    {
+      "name": "advisor-companies",
+      "source": "./plugins/advisor-companies",
+      "description": "Company research: earnings call briefs, company snapshots.",
+      "category": "companies"
+    },
+    {
+      "name": "advisor-portfolio",
+      "source": "./plugins/advisor-portfolio",
+      "description": "Portfolio intelligence: holdings news triage, portfolio risk review.",
+      "category": "portfolio"
+    },
+    {
+      "name": "advisor-macro",
+      "source": "./plugins/advisor-macro",
+      "description": "Macro intelligence: central bank monitor, macro regime brief.",
+      "category": "macro"
+    },
+    {
+      "name": "advisor-cio",
+      "source": "./plugins/advisor-cio",
+      "description": "Investment committee and CIO workflows: committee briefs.",
+      "category": "cio"
+    }
+  ]
+}

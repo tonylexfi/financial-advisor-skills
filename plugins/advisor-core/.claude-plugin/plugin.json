@@ -1,0 +1,8 @@
+{
+  "name": "advisor-core",
+  "version": "1.0.0",
+  "description": "Substrate skills every advisor workflow depends on: Lexfi MCP tool routing, evidence discipline, and advisor-grade communication standards.",
+  "author": { "name": "Lexfi", "url": "https://lexfi.ai" },
+  "license": "MIT",
+  "keywords": ["financial-advisor", "wealth-management", "lexfi", "mcp", "core"]
+}

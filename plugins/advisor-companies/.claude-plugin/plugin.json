@@ -1,0 +1,8 @@
+{
+  "name": "advisor-companies",
+  "version": "1.0.0",
+  "description": "Company research workflows: earnings call analysis and company snapshots.",
+  "author": { "name": "Lexfi", "url": "https://lexfi.ai" },
+  "license": "MIT",
+  "keywords": ["financial-advisor", "wealth-management", "lexfi", "mcp", "companies"]
+}

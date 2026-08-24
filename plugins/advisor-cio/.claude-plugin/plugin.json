@@ -1,0 +1,8 @@
+{
+  "name": "advisor-cio",
+  "version": "1.0.0",
+  "description": "Investment committee and CIO workflows: committee-ready briefs and decision memos.",
+  "author": { "name": "Lexfi", "url": "https://lexfi.ai" },
+  "license": "MIT",
+  "keywords": ["financial-advisor", "wealth-management", "lexfi", "mcp", "cio"]
+}
